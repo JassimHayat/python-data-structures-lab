@@ -136,8 +136,6 @@ def create_awesome_students():
     awesome_student = [f"{student} is swesome!" for student in students]
     print(awesome_student)
 
-
-    
     
 # Call the function and print the result
 print('Exercise 6:', create_awesome_students())
